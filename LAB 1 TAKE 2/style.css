@@ -1,0 +1,22 @@
+body {
+    color: red;
+    background-color: grey;
+  }
+  
+  .paragraphs {
+    color: yellow;
+  }
+  
+  #paragraph3 {
+    color: magenta;
+  }
+  
+  hr {
+    color: black;
+    border: solid 10px;
+  }
+  
+  h1 {
+    background-color: black;
+  }
+  
